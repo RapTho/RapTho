@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 <h3 align="center">
-  and I work as a Customer Success Manager @ IBM
+  and I work as a Customer Success Manager - Architect @ IBM
 </h3>
 
 <h4 align="left">Some of the tech I use:</h4>
