@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 <h3 align="center">
-  and I work as a Customer Success Manager - Architect @ IBM
+  and I work as a CSM Architect @ IBM
 </h3>
 
 <h4 align="left">Some of the tech I use:</h4>
@@ -12,7 +12,6 @@
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"/>
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"/>
 <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/debian-2.svg" alt="Debian"/>
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django"/>
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"/>
 <img width="40" height="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch"/>
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"/>
@@ -23,7 +22,6 @@
 <img width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/>
 <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="GitHub"/>
 <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab"/>
-<img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="GraphQL"/>
 <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/handlebars-1.svg" alt="Handlebars"/>
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"/>
 <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/ibm.svg" alt="IBM-Cloud"/>
@@ -39,8 +37,9 @@
 <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg" alt="mongoose"/>
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
 <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/node-red-1.svg" alt="Node-RED"/>
+<img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/openshift-logo-png-transparent.png" alt="OpenShift"/>
 <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/passport.svg" alt="Passportjs"/>
-<img width="40" height="40" src="https://styles.redditmedia.com/t5_u1am9/styles/communityIcon_3fomai0wtf821.png?width=256&s=21b5ec9e1178f9ec18d399c49719f85c048003d6" alt="podman"/>
+<img width="40" height="40" src="https://luiscachog.io/podman-macos-vagrant/featured.png" alt="podman"/>
 <img width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"/>
 <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
 <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi"/>
