@@ -56,6 +56,5 @@
 <h4 align="left">Find me on:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/raphael-tholl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphael-tholl" height="30" width="40" /></a>
-<a href="https://twitter.com/raphaeltholl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raphaeltholl" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11340132" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11340132" height="30" width="40" /></a>
 </p>
