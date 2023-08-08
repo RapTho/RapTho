@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raphael</h1>
 <h3 align="center">
-  and I work as an Automation Architect @ IBM
+  and I work as a Software Engineer @ IBM
 </h3>
 
 <h4 align="left">Some of the tech I use:</h4>
