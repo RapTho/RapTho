@@ -6,7 +6,7 @@
 **TL;DR:**<br>
 — ☕ Powered by espresso shots<br>
 — 🧑‍💻 Constantly exploring new tech <br>
-— 💻 JavaScript, Java, Python preferably containerised on Linux ❤️ <br>
+— 💻 Typescript, Java, Python preferably containerised on Linux ❤️ <br>
 — 📦 Red Hat certified Engineer & OpenShift specialist --> [verify](https://rhtapps.redhat.com/verify?certId=210-143-889)
 
 <h4 align="left">Find me on:</h4>
