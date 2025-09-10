@@ -9,6 +9,8 @@
 — 💻 Typescript, Java, Python preferably containerised on Linux ❤️ <br>
 — 📦 Red Hat certified Engineer & OpenShift specialist --> [verify](https://rhtapps.redhat.com/verify?certId=210-143-889)
 
+<h4>My intro is available <a href="https://raptho.github.io/selfIntroductionRevealJS">here</a></h4>
+
 <h4 align="left">Find me on:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/raphael-tholl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphael-tholl" height="30" width="40" /></a>
